@@ -5,7 +5,7 @@ from great_expectations.core.batch import RuntimeBatchRequest
 SERVER = "localhost"
 DATABASE = "DB1"
 USERNAME = "jayavardhan"
-PASSWORD = "Password@244466666"
+PASSWORD = "Password"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
 # SQLAlchemy connection string
